@@ -14,10 +14,6 @@ database_name = "foreverchain-db"
 database_id = "e7a94333-7b90-419f-89ca-c5ae4ddd6d1e"
 migrations_dir = "migrations"
 
-[[r2_buckets]]
-binding = "MEDIA"
-bucket_name = "foreverchain-media"
-
 [vars]
 APP_NAME = "ForeverChain"
 MAX_FILE_BYTES = "10485760"
