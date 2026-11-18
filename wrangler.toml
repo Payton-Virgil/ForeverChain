@@ -11,7 +11,7 @@ run_worker_first = ["/api/*"]
 [[d1_databases]]
 binding = "DB"
 database_name = "foreverchain-db"
-database_id = "REPLACE_WITH_D1_DATABASE_ID"
+database_id = "e7a94333-7b90-419f-89ca-c5ae4ddd6d1e"
 migrations_dir = "migrations"
 
 [[r2_buckets]]
